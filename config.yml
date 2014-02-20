@@ -1,0 +1,20 @@
+#CompassPlus Configuration by franga2000
+
+#The name compasses will get.
+#<player> will be replaced by the player's name
+#<direction> will be replaced by the direction the player's looking at
+name: "You're looking <direction>"
+#If the compass has to have the lore configured below to work
+requireLore: true
+#If you set the above variable to true, only compasses with this lore will be affected
+lore: "CompassPlus"
+
+#Direction names
+North: "north"
+NorthEast: "northeast"
+East: "east"
+SouthEast: "southeast"
+South: "south"
+SouthWest: "southeast"
+West: "west"
+NorthWest: "wortwest"

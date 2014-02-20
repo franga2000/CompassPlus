@@ -1,0 +1,6 @@
+main: com.franga2000.compassplus.CompassPlus
+name: CompassPlus
+version: 1
+website: http://mc.franga2000.com
+authors: [franga2000]
+description: A plugin to add automatic custom names to compasses
